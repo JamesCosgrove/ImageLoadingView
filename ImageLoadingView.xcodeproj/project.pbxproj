@@ -13,6 +13,7 @@
 		1AACC91A24535AEB006C004E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AACC91924535AEB006C004E /* Assets.xcassets */; };
 		1AACC91D24535AEB006C004E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AACC91C24535AEB006C004E /* Preview Assets.xcassets */; };
 		1AACC92024535AEB006C004E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AACC91E24535AEB006C004E /* LaunchScreen.storyboard */; };
+		1AACC92924535BCC006C004E /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AACC92724535B18006C004E /* test.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1AACC91C24535AEB006C004E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1AACC91F24535AEB006C004E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1AACC92124535AEB006C004E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AACC92724535B18006C004E /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1AACC91524535AEA006C004E /* SceneDelegate.swift */,
 				1AACC91724535AEA006C004E /* ContentView.swift */,
 				1AACC91924535AEB006C004E /* Assets.xcassets */,
+				1AACC92724535B18006C004E /* test.png */,
 				1AACC91E24535AEB006C004E /* LaunchScreen.storyboard */,
 				1AACC92124535AEB006C004E /* Info.plist */,
 				1AACC91B24535AEB006C004E /* Preview Content */,
@@ -136,6 +139,7 @@
 				1AACC92024535AEB006C004E /* LaunchScreen.storyboard in Resources */,
 				1AACC91D24535AEB006C004E /* Preview Assets.xcassets in Resources */,
 				1AACC91A24535AEB006C004E /* Assets.xcassets in Resources */,
+				1AACC92924535BCC006C004E /* test.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
